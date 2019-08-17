@@ -5,7 +5,6 @@ def square_array(array)
     a.push(array[counter]*array[counter])
     counter+=1 
   end
-return a 
 end
 
 array = [4, 5, 6]
