@@ -4,8 +4,8 @@ def square_array(array)
   while counter<array.length
     a.push(array[counter]*array[counter])
     counter+=1 
-    return a
   end
+  return a
 end
 
 array = [4, 5, 6]
